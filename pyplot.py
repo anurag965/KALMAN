@@ -41,8 +41,8 @@ def plot_data(df1, df2):
 def main():
     # File paths to the CSV files
     # file1 = 'D:\\Code\\mpu_blah_data.csv'
-    file1 = 'D:\\Code\\TEST_SUCCESSFUL.csv'
-    file2 = 'D:\\Code\\output.csv'
+    file1 = 'D:\\Code\\data.csv'
+    file2 = 'D:\\Code\\output_data.csv'
 
     # Read the CSV files
     df1 = read_csv(file1)
